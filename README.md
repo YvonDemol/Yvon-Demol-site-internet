@@ -1,25 +1,18 @@
-# Yvon Demol — Site portfolio
+# Yvon Demol — site bilingue FR/EN
 
-Projet Next.js prêt pour Vercel.
+## Mise en ligne sur Vercel
 
-## Lancer en local
+1. Dézippez ce dossier.
+2. Uploadez tout le contenu dans votre repository GitHub existant.
+   - Remplacez les anciens fichiers si GitHub le demande.
+3. Allez sur Vercel.
+4. Ouvrez votre projet.
+5. Vercel redéploiera automatiquement après le commit GitHub.
 
-```bash
-npm install
-npm run dev
-```
+## Vidéos
 
-Puis ouvrir http://localhost:3000
+Les vidéos sont intégrées via Vimeo :
+- Ultra : https://player.vimeo.com/video/1192419719
+- Main Character : https://player.vimeo.com/video/1192418223
 
-## Déployer sur Vercel
-
-1. Créer un repository GitHub.
-2. Uploader tout le contenu de ce dossier dans le repository.
-3. Sur Vercel : Add New → Project → Import Git Repository.
-4. Sélectionner le repository.
-5. Cliquer sur Deploy.
-
-## Médias
-
-Les images sont déjà rangées dans `public/images`.
-Les vidéos sont intégrées via Vimeo, donc aucun fichier vidéo lourd n'est nécessaire dans GitHub.
+Aucune vidéo lourde n'est à uploader dans GitHub.
